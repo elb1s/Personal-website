@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+.home {
+  width: 100%;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  color: #3e497a;
+}
+
+.about {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f4b41a;
+  color: #143d59;
+}
+
+.about h2 {
+  font-family: "Poppins", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 80px;
+  color: #020300;
+  height: 50px;
+}
+
+.about .prompt {
+  width: 40%;
+  font-size: 20px;
+}
+.prompt svg {
+  font-size: 60px;
+  margin: 5px;
+  color: white;
+}
+
+.skills {
+  font-size: 35px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skills h1 {
+  color: #d36135;
+}
+
+.skills .list {
+  color: #dba159;
+  list-style: none;
+  width: 60%;
+}
+
+.list span {
+  color: #424b54;
+
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .about h2 {
+    font-size: 40px;
+  }
+
+  .about .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .skills {
+    text-align: center;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .skills h2 {
+    font-size: 30px;
+  }
+}
