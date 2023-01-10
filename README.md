@@ -1,3 +1,3 @@
 This is a free template for a personal website.
 Previews
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/elb1s/Personal-website/tree/main/Preview/prev1.png" width="200" height="400" />
