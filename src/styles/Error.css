@@ -5,7 +5,7 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  background-color: #21325e;
+  background-color: #f4b41a;
   color: #f0f0f0;
   font-size: 3rem;
 }
@@ -13,6 +13,6 @@
 .href {
   padding-top: 2rem;
   text-decoration: none;
-  color: gray;
+  color: rgb(59, 59, 59);
   font-size: 2rem;
 }
